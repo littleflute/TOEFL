@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [v0.0.3](https://github.com/littleflute/TOEFL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [v0.0.4](https://github.com/littleflute/TOEFL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -45,6 +45,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   function _loadIssue(o) {	
 	eval(o.body); 
 }
-w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/60", _loadIssue);	
+w3.getHttpObject("https://api.github.com/repos/littleflute/TOEFL/issues/1", _loadIssue);	
 </script> 
 	
